@@ -6,6 +6,7 @@ pom.xml
 
 ### IntelliJ IDEA ###
 .idea/misc.xml
+.idea/encodings.xml
 .idea/vcs.xml
 .idea/workspace.xml
 .idea/modules.xml
